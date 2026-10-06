@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "speeder": {
+      "type": "http",
+      "url": "https://speeder-mcp-production.up.railway.app/mcp"
+    }
+  }
+}
